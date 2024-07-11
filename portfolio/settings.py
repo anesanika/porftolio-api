@@ -56,7 +56,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://anesanika.github.io/",
+    "https://anesanika.github.io",
     "http://localhost:3000",
 ]
 
